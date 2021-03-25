@@ -2,12 +2,12 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <title>Monicah Cloud - Dallas, GA - Home</title>
-  <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">  
-  <link href="https://fonts.googleapis.com/css?family=Heebo|Roboto" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">  
+    <meta charset="UTF-8">
+    <title>Monicah Cloud - Dallas, GA - Home</title>
+    <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Heebo|Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -132,43 +132,36 @@
 
                 <div class="home-content">
                     <div class="projectstats">
-                        <h3><b>Project:</b> Climate Analysis and Exploration </h3>
-                        <p>
-                            A basic climate analysis and data exploration of climate database.
-                        </p>
+                        <h3><b>Project:</b> College Enrollment Predication</h3>
+                        <p>University Graduation Rate Prediction Using Multiple Linear Regression
 
-                        <p>
-                             <b>Features:</b> Python, SQLAlchemy ORM, SQLite, Pandas, Matplotlib, Flask (JSON API endpoints)
-                        </p>
-                      
-                        <p>
-                            The analysis includes the following: 
+                            In this project, I will train regression models to find the probability of the enrollment
+                            rate and the graduation rate of university. I will go through the following
+                            tasks: 
                             <ul>
-                        
-                                <li> Data Preparation Climate data for Hawaii was provided in two CSV files. The content of these files was scrubbed.</li>
-                                <li>Jupyter Notebook WeatherPy_w_comments.ipynb takes care of data preparation / cleanup tasks. Pandas dataframes are created from the measurement and station CSV files. NaNs / missing values are cleaned from the data, and cleaned CSV files are saved.</li>
-                                <li>Database Engineering Using SQLAlchemy to model database schema, sqlite tables for "measurements" and "stations" are created.</li>
-                                <li>Jupyter Notebook WeatherPy_w_comments.ipynb used for database engineering work. Pandas used to read cleaned measurements and stations CSV data. Database called hawaii.sqlite created, using declarative_base to create ORM classes for each table, and used create_all to populate database.</li>
-                                
-                                <li>Jupyter Notebook file called VacationPy.ipynb used to complete climate analysis and data exporation. Start date and end date determine "vacation" range. Used SQLAlchemy create_engine to connect to sqlite database, and automap_base() to reflect tables into classes. Referenced those classes as Station and Measurement.</li>
-                                <li>Flask Web Application Flask web app with routes (endpoints) displaying JSON data results from each of the above queries.</li>
-                                <li>Queries dates and temperature observations from the last year. Converts query results to a dictionary using date as the key and tobs as the value. Returns the json representation of dictionary. /api/v1.0/stations</li>
-                                <li>Returns a json list of stations from the dataset. /api/v1.0/tobs
-
-                                    <li>Returns a json list of temperature observations (tobs) for the previous year /api/v1.0/ and /api/v1.0//</li>
-                                    
-                                    <li>Returns a json list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range. Given the start only, calculates TMIN, TAVG, and TMAX for all dates greater than and equal to the start date. Given the start and the end date, calculates the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.</li>
-                            </ul>
-                            <a class="viewmore" href="https://github.com/monicahcloud/Surfs_Up" target="_blank">
-                                <i class="fa fa-github icon_color"></i>
-                                &nbsp;&nbsp;View on Github
-                            </a>  
+                            <li>(1) Understand the Problem Statement </li> <li>(2) Import libraries and datasets </li> <li>(3) Perform
+                            Exploratory Data Analysis</li> <li>(4) Perform Data Visualization</li><li>(5) Create Training and Testing
+                            Datasets </li><li>(6) Train and Evaluate a Linear Regression Model </li><li>(7) Train and Evaluate an
+                            Artificial Neural Network Model </li><li>(8) Train and Evaluate a Random Forest Regressor and
+                            Decision Tree Model
+                        </p></ul>
+                        <p>
+                            <b>Features:</b> Python Pandas, Flask, Python Matplotlib, HTML/CSS/Bootstrap, JavaScript, JQuery, Tableau, and Heroku
+                            
                         </p>
-                        <hr>
-                  
+                        
+                        <a class="viewmore" href="https://admissionspredictor.herokuapp.com/"
+                            target="_blank">
+                            <i class="fa fa-laptop icon_color"></i>
+                            &nbsp;View hosted app
+                        </a><br>
+                        <a class="viewmore" href="https://github.com/monicahcloud/enrollment_and_graduation_rate"
+                            target="_blank">
+                            <i class="fa fa-github icon_color"></i>
+                            &nbsp;&nbsp;View on Github
+                        </a>
+                       
                     </div>
- 
-                </div>
             </main>
         </div>
     </div>

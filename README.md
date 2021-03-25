@@ -1,6 +1,6 @@
 Monicah Cloud
 Dallas, GA 30157 • Phone:(404) 453-7344 • Email: monicahcloud@gmail.com
-Linkedin:linkedin.com/in/monicah-cloud-60a371183    GitHub: github.com/monicahcloud	
+Linkedin:linkedin.com/in/cloudmonicah    GitHub: github.com/monicahcloud	
  
  
 PROFESSIONAL SUMMARY

@@ -4,7 +4,8 @@ Linkedin:linkedin.com/in/monicah-cloud-60a371183    GitHub: github.com/monicahcl
  
  
 PROFESSIONAL SUMMARY
-Highly qualified Data Analyst with a certificate from Georgia Tech’s Data Analytics and Visualization bootcamp and  a diverse professional and educational background in Education, Business Administration, Business Intelligence and Analytics. Experienced in Python, Excel, SQL, Tableau and R. Thrives in environments with increasing responsibility and track record of getting things done to drive results for any organization. Strong analytics, communication, executive presentation and project management skills. Assist businesses to structure and process qualitative and quantitative data and draw insightful conclusions from it. Enjoys designing and creating data models, developing databases and analyzing complex business scenarios.
+Data Driven professional with a background in data visualization and analytics. Customer centric Data Analyst with a passion for data.  Curious, open-minded, and explorative individual with strong problem solving skills and attention to detail. Experienced in Python, Excel, SQL, Tableau and R. Excels at working individually or with team members to meet and exceed organizational goals. Resilient, resourceful, and operates well in an environment that’s ever changing. Quick learner and hard worker that actively seeks more knowledge, growth, and self-development. 
+
 TECHNICAL SKILLS
 Tools: Excel, Databasing, Jupyter Notebook, API Interactions, Bootstrap, Dashboarding
 Data Manipulation and Visualization: Pandas, Matplotib, Numpy, Tableau
